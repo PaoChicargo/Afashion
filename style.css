@@ -27,7 +27,7 @@ body{
     
 }
 .body{
-    height: 1800px;
+
     width: 100%;
     
 }
@@ -124,7 +124,7 @@ body{
     
 }
 .panel-right{
-    margin-top:76px;
+    margin-top:60px;
 }
 .panel-right img{
     width:100%;
@@ -158,7 +158,4 @@ body{
     box-shadow:2px 2px grey;
     border-radius: 20px;
     color:white;
-}
-.footer{
-    margin-top: 560px;
 }
